@@ -1,0 +1,9 @@
+by using soap, create a python server to accept a number, display fibonaci series till that number.
+
+ex: 10
+0 1 1 2 3 5 8 
+
+
+create a client to consume that service.
+
+use any python module to create and consume the service.
